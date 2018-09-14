@@ -2,7 +2,6 @@
 """
 Created on Thu Sep 13 22:29:42 2018
 
-@author: zeyi_
 """
 
 #output mutiple dataframes into same csv file 
